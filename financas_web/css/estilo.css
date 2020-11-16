@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin-bottom: 25px;
+}
+
+hr {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	color: #ffc107;
+}
+
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+#disponibilidade {
+	text-align: center;
+}
+
+p#disponibilidade {
+	margin-top: 35px;
+}
+
+.subtitle {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.overlay_text {
+	padding: 50px;
+}
+
+.card {
+	margin-top: 15px;
+}

@@ -1,0 +1,69 @@
+body, html {
+	margin: 0;
+	color: #fff;
+	height: 100%;
+	color: black;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.separator {
+	background-color: white;
+	text-align: justify;
+	padding: 50px 80px;
+}
+
+.container {
+	position: relative;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed; 
+}
+
+.description {
+	position: absolute;
+	left: 0;
+	top: 45%;
+	width: 100%;
+	text-align: center;
+}
+
+span.title{
+	color: #fff;
+	background-color: black;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+
+/* ================ Images =============== */
+
+.ace {
+	background-image: url(../img/ace.jpg);
+}
+
+.acsyndicate {
+	background-image: url(../img/acsyndicate.jpg);
+}
+
+.docandamy {
+	background-image: url(../img/docandamy.jpg);
+}
+
+.fcprimal {
+	background-image: url(../img/fcprimal.jpg);
+}
+
+.rainingdocs {
+	background-image: url(../img/rainingdocs.jpg);
+}
+
+.vriska {
+	background-image: url(../img/vriska.jpg);
+}

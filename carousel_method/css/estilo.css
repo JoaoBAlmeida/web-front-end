@@ -1,0 +1,21 @@
+/*=========GENERAL============*/
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	padding-bottom: 80px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2em;
+	font-weight: 750;
+	margin: 25px 0;
+}
+
+h2 {
+	background: black;
+	padding: 10px;
+}
